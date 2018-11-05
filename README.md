@@ -1,5 +1,5 @@
 #first headline
+make
 
 ##second headline
-
-make && sudo make install
+sudo make install
